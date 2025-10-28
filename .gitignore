@@ -12,3 +12,5 @@ build/
 # system
 .DS_Store
 Thumbs.db
+.env.local
+New Text Document.txt
