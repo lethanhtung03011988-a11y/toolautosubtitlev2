@@ -1,0 +1,5 @@
+{
+  "name": "Toolautosubtitlev2",
+  "description": "An intelligent tool that generates perfectly synchronized subtitles (.srt file) from an audio file (.mp3) and its corresponding text transcript (.txt) using Gemini.",
+  "requestFramePermissions": []
+}
